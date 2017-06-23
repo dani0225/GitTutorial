@@ -12,6 +12,7 @@
 		8424A4C91EFD0222009BE07C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8424A4C71EFD0222009BE07C /* Main.storyboard */; };
 		8424A4CB1EFD0222009BE07C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8424A4CA1EFD0222009BE07C /* Assets.xcassets */; };
 		8424A4CE1EFD0222009BE07C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8424A4CC1EFD0222009BE07C /* LaunchScreen.storyboard */; };
+		8424A4D61EFD077B009BE07C /* mapKitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8424A4D51EFD077B009BE07C /* mapKitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8424A4CA1EFD0222009BE07C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8424A4CD1EFD0222009BE07C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8424A4CF1EFD0222009BE07C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8424A4D51EFD077B009BE07C /* mapKitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mapKitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8424A4C31EFD0222009BE07C /* AppDelegate.swift */,
 				8424A4C51EFD0222009BE07C /* ViewController.swift */,
 				8424A4C71EFD0222009BE07C /* Main.storyboard */,
+				8424A4D51EFD077B009BE07C /* mapKitViewController.swift */,
 				8424A4CA1EFD0222009BE07C /* Assets.xcassets */,
 				8424A4CC1EFD0222009BE07C /* LaunchScreen.storyboard */,
 				8424A4CF1EFD0222009BE07C /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8424A4C61EFD0222009BE07C /* ViewController.swift in Sources */,
+				8424A4D61EFD077B009BE07C /* mapKitViewController.swift in Sources */,
 				8424A4C41EFD0222009BE07C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
